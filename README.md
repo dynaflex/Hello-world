@@ -6,4 +6,6 @@ This repository is built step by step in the tutorial.
 
 Hi~
 Hi~ 2
+Hi~ 3
+
 It now includes steps for GitHub. 
